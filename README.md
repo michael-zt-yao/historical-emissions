@@ -1,2 +1,2 @@
-# historical-emissions
-Code for paper "Historical emissions, growth, and who should abate" for Yale ECON 412, Fall 2024
+# Historical emissions, growth, and who should abate #
+This repository hosts my final project for ECON 412 _International Environmental Economics_ at Yale, Fall 2024. 
